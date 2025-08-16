@@ -41,3 +41,7 @@ Dataset link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 # screenshots of working project 
 
 ![image alt](https://github.com/Tanishkverma26/Movie_Recommender_System/blob/main/Screenshot%20(237).png?raw=true)
+
+![image alt](https://raw.githubusercontent.com/Tanishkverma26/Movie_Recommender_System/refs/heads/main/Screenshot%20(238).png)
+
+![image alt](https://raw.githubusercontent.com/Tanishkverma26/Movie_Recommender_System/refs/heads/main/Screenshot%20(239).png)
