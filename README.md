@@ -38,3 +38,6 @@ It demonstrates the complete pipeline:
 Movies metadata dataset (TMDB).
 Dataset link - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
+# screenshots of working project 
+
+![image alt](https://github.com/Tanishkverma26/Movie_Recommender_System/blob/main/Screenshot%20(237).png?raw=true)
